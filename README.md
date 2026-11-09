@@ -7,7 +7,7 @@ namespace RaceAPI.Models
     {
         public int ParticipantId { get; set; }
 
-        [Required
+        Required
         public string FirstName { get; et; } = string.Empty
 
         [Required]
