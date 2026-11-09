@@ -1,5 +1,5 @@
 
-using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotation
 
 namespace RaceAPI.Models
 {
