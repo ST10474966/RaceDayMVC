@@ -1,7 +1,7 @@
 
 using System.ComponentModel.DataAnnotation
 
-namespace RaceAPI.Models
+namespace RaceAPI.Model
 
     public class Participant
     {
