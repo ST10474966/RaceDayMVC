@@ -20,7 +20,7 @@ namespace RaceAPI.Models
         public string? PhoneNumber { get; set; }
 
         public ICollection<Enrolment> Enrolments { get; set; }
-            = new List<Enrolment>
+             new List<Enrolment>
 
         public ICollection<Result> Results { get; set; }
             = new List<Result>();
