@@ -2,7 +2,7 @@
 using System.ComponentModel.DataAnnotation
 
 namespace RaceAPI.Models
-{
+
     public class Participant
     {
         public int ParticipantId { get; set; }
