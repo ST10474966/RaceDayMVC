@@ -14,7 +14,7 @@ namespace RaceAPI.Models
         public string LastName { get; set; } = string.Empty;
 
         [Required]
-        [EmailAddress
+        [EmailAddres
         public string Email { get; set; } = string.Empty;
 
         public string? PhoneNumber { get; set; }
