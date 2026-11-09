@@ -8,7 +8,7 @@ namespace RaceAPI.Models
         public int ParticipantId { get; set; }
 
         [Required]
-        public string FirstName { get; set; } = string.Empty
+        public string FirstName { get; et; } = string.Empty
 
         [Required]
         public string LastName { get; set; } = string.Empty;
