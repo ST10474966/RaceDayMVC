@@ -17,7 +17,7 @@ namespace RaceAPI.Models
         [EmailAddre
         public string Email { get; set; } = string.Empty;
 
-        public string? PhoneNumber { get; set; }
+        public string PhoneNumber { get; set; }
 
         public ICollection<Enrolment> Enrolments { get; set; }
              ne List<Enrolment
