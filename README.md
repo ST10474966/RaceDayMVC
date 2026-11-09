@@ -23,6 +23,6 @@ namespace RaceAPI.Models
              ne List<Enrolment
 
         public ICollection<Result> Results { get; set; }
-            = new List<Result>();
+            = new List<Result>()
     
 
