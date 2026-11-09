@@ -24,5 +24,5 @@ namespace RaceAPI.Models
 
         public ICollection<Result> Results { get; set; }
             = new List<Result>();
-    }
+    
 
